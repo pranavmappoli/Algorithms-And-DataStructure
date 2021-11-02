@@ -1,2 +1,2 @@
 # Algorithms-and-DataStructure
-Algorithms and Data structure that i have learned and implemented
+This files  contain 300+ different Algorithms+ Data Structures implementations and its application including competitive programs.  
